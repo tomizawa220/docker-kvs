@@ -1,3 +1,3 @@
-# docker-kvs
-for docker learning
-1st commit
+オリジナルのGitHubリポジトリは以下となります。
+
+https://github.com/yuichi110/docker-kvs
